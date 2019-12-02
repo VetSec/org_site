@@ -15,7 +15,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://veteransec.org
+production_url: https://vetsec.github.io/org_site/
 source_url: https://github.com/VetSec/org_site
 CNAME: #add cname for website to be created
 
@@ -74,7 +74,7 @@ repo: org_site
 branch: master
 relative_source: /
 destination: gh-pages
-production_url:  https://vetsec.github.io/
+production_url:  https://vetsec.github.io/org_site/
 source_url:  https://github.com/vetsec/org_site/
 
 exclude:
