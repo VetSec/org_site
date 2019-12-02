@@ -9,7 +9,7 @@ words_per_minute: 200
 baseurl: /org_site/
 
 # Website info
-title: VeteranSec - A Veteran Cyber Security Nonprofit
+title: VeteranSec
 description: A Veteran Cyber Security Nonprofit
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
