@@ -72,7 +72,7 @@ lsi: False
 username: vetsec
 repo: org_site
 branch: master
-relative_source: /
+relative_source: ../org_site/
 destination: gh-pages
 production_url:  https://vetsec.github.io/org_site/
 source_url:  https://github.com/vetsec/org_site/
