@@ -6,17 +6,17 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: VeteranSec - A Veteran Cyber Security Nonprofit
+description: A Veteran Cyber Security Nonprofit
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://jekyller.github.io/jasper2/
-source_url: https://github.com/jekyller/jasper2/
+production_url: https://veteransec.org
+source_url: https://github.com/VetSec/org_site
 CNAME: #add cname for website to be created
 
 # Social info
@@ -24,15 +24,15 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: VeteranSec # replace by your username
+#facebook: ghost # replace by your username
 
 # Disqus
 disqus: False
 disqus_shortname: jekyller # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-153602785-1  # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
@@ -69,13 +69,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
-branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
+username: vetsec
+repo: org_site
+branch: gh-pages
+relative_source: /
+destination: /
+production_url:  https://vetsec.github.io/
+source_url:  https://github.com/vetsec/org_site/
 
 exclude:
   - assets/css
