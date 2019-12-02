@@ -71,9 +71,9 @@ safe: False
 lsi: False
 username: vetsec
 repo: org_site
-branch: gh-pages
+branch: master
 relative_source: /
-destination: /
+destination: gh-pages
 production_url:  https://vetsec.github.io/
 source_url:  https://github.com/vetsec/org_site/
 
