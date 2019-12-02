@@ -18,7 +18,7 @@ script: bundle exec rake site:deploy --quiet --trace
 # travis encrypt 'GIT_NAME="YOUR_USERNAME" GIT_EMAIL="YOUR_EMAIL" GH_TOKEN=YOUR_TOKEN'
 env:
   global:
-    secure: $travis_token
+    secure: "Uy+ewHuCnja1i8g1MGsGaFaDxwWscFr+v8mGpsiD77dMeQ9gu40pul2FxxEw+1Zg3YbUaHnLVQ2PGfxsM/PfA+zv8d3zNEWONE0K3EYoF1oSdl/bedMxPdKS6SU6w9XOVSzRdFagRVBXbzhAB4xhKNGq3kfPfnOT/EWmoPXtwO34wpTQDUY4A9NPuWFJNbJZQdyU5JUvfpEuEQyjv5hxEm+ZpYSTj6K9xfZrlIewyPTs+M1nI66/TEZvnp4qF8ahGBWY1b/8+VNuZseYmbajuUZBzH/TM8wcKREvte3rafSd3PpVqkZCC37tZ7klTfqZpbiPh/HHbDcWFDRBl/5e8bIYEod5pr8J+HaHtVyVgjkD6H78E3U+zE5mBaxcMB8ftSupLc0PhUhgRXGBzMisNaQry3imLsiwz1ZgUGDDIgNEzHgMs7Nids5e+eO6yyhsJv+H4u2teDDJ8IWZuS/LTREPxqfNyIEftIRXQdBTyg5hbecTwGruMbBNReCiVGLmIpAi9BFJzI7yvq0U+0DZ/eIZc2d5wi/BeBPkwHkYB3/3GrdR25njqcXeveMKo8eUDKf5evjs1Ivu7e6A8BUfGnsWREw9yYxoqWPXGD5cDSPZNJKxv1mceQganWt50KP9PugINEDNnLZ5PDW9lSF1hfLYMC40Yz4Xb6WYfnsCMVE="
 branches:
   only:
     - master
