@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/org_site/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/org_site/" rel="alternate" type="text/html" />
-  <updated>2019-12-02T14:24:37+00:00</updated>
+  <updated>2019-12-02T15:14:47+00:00</updated>
   <id>/org_site/tag/getting-started/feed.xml</id>
 
   
@@ -12,7 +12,7 @@
   
 
   
-    <title type="html">VeteranSec - A Veteran Cyber Security Nonprofit | </title>
+    <title type="html">VeteranSec | </title>
   
 
   
@@ -44,10 +44,10 @@
 
   
     <entry>
-      <title type="html">Welcome to Ghost</title>
-      <link href="/org_site/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" />
-      <published>2017-07-27T10:00:00+00:00</published>
-      <updated>2017-07-27T10:00:00+00:00</updated>
+      <title type="html">Welcome</title>
+      <link href="/org_site/welcome" rel="alternate" type="text/html" title="Welcome" />
+      <published>2019-12-02T07:06:00+00:00</published>
+      <updated>2019-12-02T07:06:00+00:00</updated>
       <id>/org_site/welcome</id>
       <content type="html" xml:base="/org_site/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
 
@@ -73,7 +73,7 @@
       
 
       <author>
-          <name>Ghost</name>
+          <name>Chad Boyd</name>
         
         
       </author>
@@ -93,8 +93,8 @@
     </entry>
   
     <entry>
-      <title type="html">Using the Ghost editor</title>
-      <link href="/org_site/the-editor" rel="alternate" type="text/html" title="Using the Ghost editor" />
+      <title type="html">Using the Ghost editor - not applicable</title>
+      <link href="/org_site/the-editor" rel="alternate" type="text/html" title="Using the Ghost editor - not applicable" />
       <published>2017-07-27T09:00:00+00:00</published>
       <updated>2017-07-27T09:00:00+00:00</updated>
       <id>/org_site/the-editor</id>
@@ -168,8 +168,8 @@
     </entry>
   
     <entry>
-      <title type="html">Organising your content with tags</title>
-      <link href="/org_site/using-tags" rel="alternate" type="text/html" title="Organising your content with tags" />
+      <title type="html">Organising your content with tags - not applicable</title>
+      <link href="/org_site/using-tags" rel="alternate" type="text/html" title="Organising your content with tags - not applicable" />
       <published>2017-07-27T08:00:00+00:00</published>
       <updated>2017-07-27T08:00:00+00:00</updated>
       <id>/org_site/using-tags</id>
@@ -227,8 +227,8 @@
     </entry>
   
     <entry>
-      <title type="html">Managing Ghost users</title>
-      <link href="/org_site/managing-users" rel="alternate" type="text/html" title="Managing Ghost users" />
+      <title type="html">Managing Ghost users - not applicable</title>
+      <link href="/org_site/managing-users" rel="alternate" type="text/html" title="Managing Ghost users - not applicable" />
       <published>2017-07-27T07:00:00+00:00</published>
       <updated>2017-07-27T07:00:00+00:00</updated>
       <id>/org_site/managing-users</id>
@@ -271,8 +271,8 @@
     </entry>
   
     <entry>
-      <title type="html">Making your site private</title>
-      <link href="/org_site/private-sites" rel="alternate" type="text/html" title="Making your site private" />
+      <title type="html">Making your site private - not applicable</title>
+      <link href="/org_site/private-sites" rel="alternate" type="text/html" title="Making your site private - not applicable" />
       <published>2017-07-27T06:00:00+00:00</published>
       <updated>2017-07-27T06:00:00+00:00</updated>
       <id>/org_site/private-sites</id>
@@ -386,8 +386,8 @@
     </entry>
   
     <entry>
-      <title type="html">Setting up your own Ghost theme</title>
-      <link href="/org_site/themes" rel="alternate" type="text/html" title="Setting up your own Ghost theme" />
+      <title type="html">Setting up your own Ghost theme - not applicable</title>
+      <link href="/org_site/themes" rel="alternate" type="text/html" title="Setting up your own Ghost theme - not applicable" />
       <published>2017-07-27T04:00:00+00:00</published>
       <updated>2017-07-27T04:00:00+00:00</updated>
       <id>/org_site/themes</id>
