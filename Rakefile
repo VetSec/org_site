@@ -13,7 +13,7 @@ CONFIG = YAML.load(File.read('_config.yml'))
 USERNAME = CONFIG["username"]
 REPO = CONFIG["repo"]
 SOURCE_BRANCH = CONFIG["branch"]
-#DESTINATION_BRANCH = CONFIG["destination"]
+DESTINATION_BRANCH = CONFIG["destination"]
 CNAME = CONFIG["CNAME"]
 
 def check_destination
