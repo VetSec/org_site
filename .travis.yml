@@ -16,7 +16,7 @@ deploy:
   github_token: $GH_TOKEN
   local_dir: build
   on:
-    branch: master
+    branch: gh-pages
 
 # Generate your secure token with the travis gem:
 # get Github token from your Travis CI profile page
