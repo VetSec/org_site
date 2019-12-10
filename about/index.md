@@ -23,7 +23,13 @@ If you would like to make a contribution to our cause, we have set up a [patreon
 
 # Who We Are
 
-**Elliot “Emtuls” Chernofsky** [![](../assets/images/website_thumb.png)](https://emtuls.dev/) [![](../assets/images/github_thumb.png)](https://github.com/emtuls/) [![](../assets/images/linkedin_thumb.png)](https://www.linkedin.com/in/elliot-c-54982aa7/) [![](../assets/images/twitter_thumb.png)](https://twitter.com/emtuls)
+<p float="left">
+    <b>Elliot “Emtuls” Chernofsky</b>
+    <a><img src="../assets/images/website_thumb.png" height="15px" width="15px" /></a>
+    <a><img src="../assets/images/github_thumb.png" height="15px" width="15px" /></a>
+    <a><img src="../assets/images/linkedin_thumb.png" height="15px" width="15px" /></a>
+    <a><img src="../assets/images/twitter_thumb.png" height="15px" width="15px" /></a>
+</p>
 
 <img align="right" src="../assets/images/bod/elliot-chernofsky.png" />
 Hey all. I’m Elliot Chernofsky and I go by ‘Emtuls’ in most places online. I have a Bachelors in Electrical Engineering and am currently working on my Masters in Computer Science. Although I am not a big fan of certifications, I do have my fair share of them.
