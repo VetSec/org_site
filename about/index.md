@@ -67,3 +67,14 @@ I’ve been a systems admin/engineer for around 20 years, and am currently a Sr.
 
 While serving on the board, it’s my goal to continue to grow VetSec, and work to provide training and job opportunities for our members.
 
+---
+
+#### Jake "j2k3k" Knowlton | [Github](https://github.com/j2k3k) | [LinkedIn](https://www.linkedin.com/in/jacobknowlton/) | [@j2k3k](https://twitter.com/j2k3k)
+
+<img aling="right" src="/assets/images/bod/jake-knowlton.png">
+Former USAF Airborne Systems Engineer (1A3) that flew on the RC/OC-135 ISR platforms.
+
+I have had a lifelong curiosity in information security, with the past ten years in various IT or technical roles. I am currently an Information Security Analyst.
+
+VetSec was critical to my transition from an active duty career into the civilian career I desired. The mentorship, career guidance, and companionship from people who get it put me on the path for success right away. Now, it’s my turn to give back. The growth of VetSec is my primary concern, and along with helping the board mold the organization into a place where Vets can feel at home.
+
