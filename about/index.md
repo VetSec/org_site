@@ -23,9 +23,9 @@ If you would like to make a contribution to our cause, we have set up a [patreon
 
 # Who We Are
 
-### Elliot “Emtuls” Chernofsky | [Website](https://emtuls.dev/) | [Github](https://github.com/emtuls/) | [LinkedIn](https://www.linkedin.com/in/elliot-c-54982aa7/) | [@emtuls](https://twitter.com/emtuls) ![Twitter](assets/images/twitter_thumb.png)
+#### Elliot “Emtuls” Chernofsky | [Website](https://emtuls.dev/) | [Github](https://github.com/emtuls/) | [LinkedIn](https://www.linkedin.com/in/elliot-c-54982aa7/) | [@emtuls](https://twitter.com/emtuls)
 
-<img align="right" src="assets/images/bod/elliot-chernofsky.png">
+<img align="right" src="/assets/images/bod/elliot-chernofsky.png">
 Hey all. I’m Elliot Chernofsky and I go by ‘Emtuls’ in most places online. I have a Bachelors in Electrical Engineering and am currently working on my Masters in Computer Science. Although I am not a big fan of certifications, I do have my fair share of them.
 
 For my military career, I have served and am still currently serving in the Air National Guard as a prior 3D1X1 (Combat Comms/Networking), and now 17S (Cyber Warfare Officer) doing cyber stuff.
@@ -34,27 +34,27 @@ I stumbled upon my passion of Cyber Security while in my senior year of Undergra
 
 My passion lies in the realm of programming, reverse engineering and exploit development and I seek to help others get into this growing field as I continue to expand my knowledge and get a deeper understanding of them.
 
-### Heather “infosecanon” Lawrence | [Github](https://github.com/infosecanon) | [LinkedIn](https://www.linkedin.com/in/hlawrence2010/) | [@infosecanon](https://twitter.com/infosecanon) ![Twitter](assets/images/twitter_thumb.png)
+#### Heather “infosecanon” Lawrence | [Github](https://github.com/infosecanon) | [LinkedIn](https://www.linkedin.com/in/hlawrence2010/) | [@infosecanon](https://twitter.com/infosecanon)
 
-<img align="right" src="assets/images/bod/heather-lawrence.png">
+<img align="right" src="/assets/images/bod/heather-lawrence.png">
 Heather Lawrence is a data scientist for the Nebraska Applied Research Institute who earned her undergraduate and masters degrees in Computer Engineering from the University of Central Florida.
 
 In previous lives she was a USN nuke, VA photographer, NCCDC winner, Hack@UCF mom, and darknet marketplace miner. Her current research centers on the application of machine learning to intrusion detection.
 
 She serves the community through volunteer work for Kernelcon and DEF CON as well as facilitating logistics as a member of the VetSec and B-Sides Orlando boards.
 
-### Scott “h4zegrey” Farber | [Github](https://twitter.com/h4zegrey) | [LinkedIn](https://www.linkedin.com/in/scottfarber/) | [@h4zegrey](https://twitter.com/h4zegrey) ![Twitter](assets/images/twitter_thumb.png)
+#### Scott “h4zegrey” Farber | [Github](https://twitter.com/h4zegrey) | [LinkedIn](https://www.linkedin.com/in/scottfarber/) | [@h4zegrey](https://twitter.com/h4zegrey)
 
-<img align="right" src="assets/images/bod/scott-farber.png">
+<img align="right" src="/assets/images/bod/scott-farber.png">
 Former US Navy Electronics Technician, specializing in Link 11 (AN/USQ-74), and URT-23 HF gear. I served on the USS Mahan DDG-42 during Desert Storm.
 
 I have been in various IT fields since 1995, starting off doing helpdesk and PC support, networking, and now security. I started in DoD contracting, made the rounds of UUNet, InterNAP, AOL, Adelphia Cable, and Nextel. From there I moved to an eCommerce and MVNO company where I started getting my hands dirty on firewalls and PCI compliance. I then ran the network as an engineering manager at Customs & Border Protection before eventually moving to MITRE where I now manage Infrastructure Security Engineering for our corporate IT systems.
 
 During my service on the board, I’m looking forward to growing the organization and helping to build partnerships that will help jumpstart and sustain our members’ careers.
 
-### Chad “danger__rat” Boyd | [Github](https://github.com/cboyd0319) | [LinkedIn](https://www.linkedin.com/in/chadboyd/) | [@danger__rat](https://twitter.com/danger__rat) ![Twitter](assets/images/twitter_thumb.png)
+#### Chad “danger__rat” Boyd | [Github](https://github.com/cboyd0319) | [LinkedIn](https://www.linkedin.com/in/chadboyd/) | [@danger__rat](https://twitter.com/danger__rat)
 
-<img align="right" src="assets/images/bod/chad-boyd.png">
+<img align="right" src="/assets/images/bod/chad-boyd.png">
 Former Army 74B (25B) and Navy Reserve IT.
 
 I’ve been a systems admin/engineer for around 20 years, and am currently a Sr. Security Engineer, focusing on containers and Kubernetes.
