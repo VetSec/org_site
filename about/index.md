@@ -24,11 +24,7 @@ If you would like to make a contribution to our cause, we have set up a [patreon
 # Who We Are
 
 <p float="left">
-    <b>Elliot “Emtuls” Chernofsky</b>
-    <a><img src="../assets/images/website_thumb.png" height="15px" width="15px" /></a>
-    <a><img src="../assets/images/github_thumb.png" height="15px" width="15px" /></a>
-    <a><img src="../assets/images/linkedin_thumb.png" height="15px" width="15px" /></a>
-    <a><img src="../assets/images/twitter_thumb.png" height="15px" width="15px" /></a>
+    <b>Elliot “Emtuls” Chernofsky</b> <a><img src="../assets/images/website_thumb.png" height="20px" width="20px" /></a> <a><img src="../assets/images/github_thumb.png" height="20px" width="20px" /></a> <a><img src="../assets/images/linkedin_thumb.png" height="20px" width="20px" /></a> <a><img src="../assets/images/twitter_thumb.png" height="20px" width="20px" /></a>
 </p>
 
 <img align="right" src="../assets/images/bod/elliot-chernofsky.png" />
